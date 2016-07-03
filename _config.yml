@@ -1,0 +1,14 @@
+layout_spectrum: 0.5120666134171188
+typography_spectrum: 0.4313468704931438
+color:
+  brandStrength: 0.119032560614869
+  lightness: 0.02322370046749711
+  saturation: 0.48414502455852926
+  rhythmicContrast: 0.8857875009998679
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: conversable
