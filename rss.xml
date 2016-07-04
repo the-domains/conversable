@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[conversable]]></title>
         <description><![CDATA[conversable]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/conversable/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 05:27:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jul 2016 05:27:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/conversable/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dymaxion Man - The New Yorker]]></title>
+            <description><![CDATA[<article><h1>Dymaxion Man - The New Yorker</h1><p>One of Buckminster Fuller's earliest inventions was a car shaped like a blimp. The car had three wheels-two up front, one in the back-and a periscope instead of a rear window. Owing to its unusual design, it could be maneuvered into a parking space nose first and could execute a hundred-and-eighty-degree turn so tightly that it would end up practically where it had started, facing the opposite direction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/428691f5ac179c7c48c95b05643926b7/noop.jpg?input=http%3A%2F%2Fwww.newyorker.com%2Fwp-content%2Fuploads%2F2008%2F06%2F080609_r17472_p646-1200-630-06111350.jpg"></article>]]></description>
+            <link>http://www.newyorker.com/magazine/2008/06/09/dymaxion-man</link>
+            <guid isPermaLink="false">74e99c4d-1558-4d33-95bf-c68cecc001c3</guid>
+            <pubDate>Mon, 04 Jul 2016 05:27:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dymaxion Man - The New Yorker]]></title>
             <description><![CDATA[<article><h1>Dymaxion Man - The New Yorker</h1><p>One of Buckminster Fuller's earliest inventions was a car shaped like a blimp. The car had three wheels-two up front, one in the back-and a periscope instead of a rear window. Owing to its unusual design, it could be maneuvered into a parking space nose first and could execute a hundred-and-eighty-degree turn so tightly that it would end up practically where it had started, facing the opposite direction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/428691f5ac179c7c48c95b05643926b7/noop.jpg?input=http%3A%2F%2Fwww.newyorker.com%2Fwp-content%2Fuploads%2F2008%2F06%2F080609_r17472_p646-1200-630-06111350.jpg"></article>]]></description>
