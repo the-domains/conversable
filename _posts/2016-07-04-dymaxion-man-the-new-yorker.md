@@ -31,8 +31,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.newyorker.com/magazine/2008/06/09/dymaxion-man'
 title: Dymaxion Man - The New Yorker
-datePublished: '2016-07-04T05:27:15.233Z'
-dateModified: '2016-07-04T05:26:07.270Z'
+datePublished: '2016-07-04T05:27:54.081Z'
+dateModified: '2016-07-04T05:27:06.348Z'
 starred: false
 sourcePath: _posts/2016-07-04-dymaxion-man-the-new-yorker.md
 inFeed: true
